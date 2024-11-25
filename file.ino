@@ -41,12 +41,6 @@ void loop() {
   //measure distance
   int frontDistance=getDistance(frontTrigPin,frontEchoPin);
   int sideDistance=getDistance(sideTrigPin,sideEchoPin);
-  //moveForward();
-  //checking conditions
- // moveForward();
-  /*while(frontDistance<30 && frontDistance){
-    turnLeftwards();
-  }*/
   
   if(degree>=360){
     stopMoving();
