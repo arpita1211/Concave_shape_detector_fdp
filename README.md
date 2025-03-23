@@ -12,8 +12,8 @@ The **Concave Detector Bot** is an autonomous robot designed to navigate environ
 - Implemented using **Arduino and motor driver circuitry**.
 
 ## Project Video
-Watch the project in action here:
-[Google Drive Link]((https://drive.google.com/drive/folders/1lhsMXzJ-cibm2QbUYWzw19V2VRejsfO1?usp=sharing))
+Watch the project in action here:  
+[Google Drive Link](https://drive.google.com/drive/folders/1lhsMXzJ-cibm2QbUYWzw19V2VRejsfO1?usp=sharing)
 
 ## Hardware Components
 - **Arduino Uno** (Microcontroller)
